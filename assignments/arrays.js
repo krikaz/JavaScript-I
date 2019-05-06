@@ -142,4 +142,4 @@ for (let i=0; i<inventory.length; i++) {
     BMWAndAudi.push(a6);
   }
 }
-console.log(BMWAndAudi);
+console.log(JSON.stringify(BMWAndAudi));
